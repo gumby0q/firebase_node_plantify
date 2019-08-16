@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mysuperiotproject",
+  "private_key_id": "b64c63bc809bac8475e175780d56513f01be617d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFFp5K2mnZs6N+\nmgVozIoGdFDYCzkmRsPLIKstcxI/PDmZ+kIFaUSgx1zScTUTZ0A/FdehmyoI8WZG\nFt/3lYRmBZq+/q0vIaRCo0xJKz3dGy0Xk184oWs4CvWsFtShHXlMKx7Er3X4dL/x\nQYRpfoU4G3nYan4GxqP7qR10ED0i6rNVGQMiysHnFEMdV9XHyhJcKduwVQSEI6T3\nQ40ZCGOWyDUEjsbiE/UoNgdk9JuNBQ827ogvhGuyH8Vkh+Gd6i3MK/7BhKHZsjTR\nS0OHe3O5ot5OWuB5bvqZe4091/KGG+8LBvGEK0s/TgZmvHq0jxVIxdOXKfOLmz3I\nZt09aIYlAgMBAAECggEADTwsmxg5vX3bv9e1/0ilCDPtbeSrDM/5u/1QoXe1xPtV\nXuq4XkaobieVKyihCNGJNfNQjLCvzPPxC0nj9mta/cLolmTh2mVm83al29AEkoGN\nsKSb42Cro5LQ1qKd2sfw6lWG9mxV/r5QWXIt4yu05ISr1QWpuujCAFdl+/JPOLXt\n2U+Iq08UBYDxVgLRazfyFteKbi70VozhhVQd2qmhCq5AZjLPAuPvwNkeiOsPzy7h\n9p/6/tbUZRZOoBDiL8A7NPWQcb48XpSfEz/9LT5s/tzfBsTrN8Gia60AVvXzcfeD\nTlNnB8lWldzzjHxr8JMMvzacPDbVVjYnhtAWL/FKoQKBgQD0EOiI0PhAKNjz6Xo4\nKLXUBbc6nfYogjGGUWNHTyeMJLVAcMN9mHBur8Jvah6kKuLUL/3Uy2vwsxt0lpbK\n4WM+DEHzbKdPtVWpIKXuR6dkeM3jkw24HZFXuGXK+aCh4NdDGvVRv75gonHYeO3q\nd8RON5z4L9upYW7JEVgUnUY9OQKBgQDOuarsg4NR8+xiSNsIAnfPbCqK3g35hyOd\n94H4ftAMTYbwXO3Tg4UB6rO7OlI69gQmHXRqofBjgDoFoQGJLOJwLMLQrf9Xy4nh\nB+Uef8ddakF4ZZBmvAbs983rc7kQx/9RnH9eFX20nt1ggpqYFyhaKPzp5dGLT5sM\ntiZIpyT8TQKBgDLPwlmZh9Vzq5c8KGHAt/ooJnlhoXnVgRIBp7WU2RroGYQM9eYT\n8nRYyxX+9dofw5GBXEsM/q/h2flv0Hz0Z4DndGOFX1/M1MSdM25kJIlaTSLv3o9S\nOIwWq7qSNcr90FL8Lc6TKMNdjm4O3xlNTeUq1tckv4qH6lSZ88h25cShAoGAIfQE\nysve6bryfEITF4GwQ/U0F5LZIL69btiUFEhfy2WAYEIjHbZgRixSUNIHZ3+4trnn\nwQvP+8e3v+zt36Xrmxj+9l9drQHVJ4ywaQ37pLArCKdFzFndmVYqEB31q3fty220\nzbMh7mSZX5yT358OFaDdyVzhycvNX40bRJuPS5ECgYBfK+C2C2kFiHq85NNlbEN8\nSU5Jcg8oNEWVPae67HYXN6pycVsBR3q9BA2obvIq1kBnYstlo91Gr+Z9omaEenkM\nZgJqY1N7Sy/Spnor0Qmn4xTxIkrh05dJ19fR7lSI1QCE85WcCb61gH3bN3doifiM\nqEOyL3/P608N1hCgbt5Dlw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jwkpr@mysuperiotproject.iam.gserviceaccount.com",
+  "client_id": "101882333831433563371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jwkpr%40mysuperiotproject.iam.gserviceaccount.com"
+}
